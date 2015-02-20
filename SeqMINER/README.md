@@ -1,0 +1,3 @@
+# SeqMINER
+
+seqMINER is an integrated portable ChIP-seq data interpretation platform with optimized performances for efficient handling of multiple genomewide datasets. seqMINER allows comparison and integration of multiple ChIP-seq datasets and extraction of qualitative as well as quantitative information. seqMINER can handle the biological complexity of most experimental situations and proposes supervised methods to the user in data categorization according to the analysed features. In addition, through multiple graphical representations, seqMINER allows visualisation and modelling of general as well as specific patterns in a given dataset. Moreover, seqMINER proposes a module to quantitatively analyse correlations and differences between datasets.

@@ -1,0 +1,3 @@
+# GenomicTools
+
+GenomicTools is a flexible computational platform for the analysis and manipulation of high-throughput sequencing data such as RNA-seq and ChIP-seq. A variety of mathematical operations between sets of genomic regions is implemented thereby enabling the prototyping of computational pipelines that can address a wide spectrum of tasks from preprocessing and quality control to meta-analyses. More specifically, the user can easily create average read profiles across transcriptional start sites or enhancer sites, quickly prototype customized peak discovery methods for ChIP-seq experiments, perform genome-wide statistical tests such as enrichment analyses, design controls via appropriate randomization schemes, among other applications.

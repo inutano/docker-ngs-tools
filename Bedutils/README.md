@@ -1,0 +1,5 @@
+# Bedutils
+
+NGSUtils is a suite of software tools for working with next-generation sequencing datasets. Staring in 2009, we (Liu Lab @ Indiana University School of Medicine) starting working with next-generation sequencing data. We initially started doing custom coding for each project in a one-off manner. It quickly became apparent that this was an inefficient manner to work, so we started assembling smaller utilities that could be adapted into larger, more complicated, workflows. We have used them for Illumia, SOLiD and 454 sequencing data. We have used them for DNA and RNA resequcing, ChIP-Seq, CLIP-Seq, and targeted resequencing (Agilent exome capture and PCR targeting). These tools are also used heavily in our in-house DNA and RNA mapping pipelines.
+These tools have of great use within our lab group, and so we are happy to make them available to the greater community.
+NGSUtils is made up of 50+ programs, mainly written in Python. These are separated into modules based on the type of file that is to be analyzed. There are four modules:

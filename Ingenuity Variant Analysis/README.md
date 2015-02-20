@@ -1,0 +1,3 @@
+# Ingenuity Variant Analysis
+
+Ingenuity Variant Analysis is a web application that helps researchers studying human disease to identify causal variants from human resequencing data in just minutes. Ingenuity Variant Analysis combines analytical tools and integrated content to help you rapidly identify and prioritize variants by drilling down to a small, targeted subset of compelling variants based both upon published biological evidence and your own knowledge of disease biology. With Variant Analysis, you can interrogate your variants from multiple biological perspectives, explore different biological hypotheses, and identify the most promising variants for follow-up.

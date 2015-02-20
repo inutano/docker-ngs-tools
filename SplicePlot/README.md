@@ -1,0 +1,3 @@
+# SplicePlot
+
+RNA sequencing has provided unprecedented resolution of alternative splicing and splicing quantitative trait loci (sQTL). However, there are few tools available for visualizing the genotype-dependent effects of splicing at a population level. SplicePlot is a simple command line utility that produces intuitive visualization of sQTLs and their effects. SplicePlot takes mapped RNA sequencing reads in BAM format and genotype data in VCF format as input and outputs publication-quality Sashimi plots, hive plots and structure plots, enabling better investigation and understanding of the role of genetics on alternative splicing and transcript structure

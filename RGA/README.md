@@ -1,0 +1,3 @@
+# RGA
+
+Reference-guided assembler

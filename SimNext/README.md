@@ -1,0 +1,3 @@
+# SimNext
+
+Sequencing read simulator
